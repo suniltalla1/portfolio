@@ -34,6 +34,16 @@ footer {
   font-size: 0.9em;
 }
 
+<<<<<<< HEAD
+.error-page {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.error-page h1 {
+  font-size: 72px;
+  color: #dc2626;
+=======
 article {
   margin-bottom: 30px;
   padding-bottom: 20px;
@@ -43,4 +53,5 @@ article {
 article h2 {
   color: #2563eb;
   margin-bottom: 6px;
+>>>>>>> main
 }
