@@ -33,3 +33,13 @@ footer {
   color: #888;
   font-size: 0.9em;
 }
+
+.error-page {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.error-page h1 {
+  font-size: 72px;
+  color: #dc2626;
+}
